@@ -1,4 +1,32 @@
+html{
+  font-family: sans-serif;
+}
 body {
-  background-color: #ffffff;
+  background-color: #89d5be;
   color: #000000;
+}
+
+li {
+  font-family: monospace;
+  font-size: 14pt;
+}
+
+blockquote {
+  border-left: 6px solid #808080
+}
+
+h1{
+  color: #d543ba;
+  background-color: #0c5e45;
+}
+
+h2{
+  font-family: 'Cantarell', sans-serif;
+  font-variant: small-caps;
+  font-size: 36pt;
+}
+
+em{
+  font-style: normal;
+  color: gray;
 }
